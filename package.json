@@ -1,0 +1,25 @@
+{
+  "name": "seedReactJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^1.0.0",
+    "typescript": "^2.0.7",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "@types/react": "^0.14.44",
+    "@types/react-dom": "^0.14.18",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}

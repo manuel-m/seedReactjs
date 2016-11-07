@@ -1,2 +1,11 @@
 # seedReactjs
-react webpack seed 
+React, TypeScript, Webpack, Yarn  
+
+### Usage 
+
+yarn install 
+yarn build
+
+
+
+
